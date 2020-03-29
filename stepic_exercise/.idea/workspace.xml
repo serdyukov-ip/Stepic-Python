@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1718073-4de4-47ce-910d-0c6609877324" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZTaXW1gby9AKnkzPLgVBIGuQ4w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MyPC\PycharmProjects\stepic_exercise\exercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex55">
+    <configuration name="ex51" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stepic_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/ex51.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stepic_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/ex52.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex53" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stepic_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/ex53.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex54" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stepic_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/ex54.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex55" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stepic_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/ex55.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex55" />
+        <item itemvalue="Python.ex54" />
+        <item itemvalue="Python.ex53" />
+        <item itemvalue="Python.ex52" />
+        <item itemvalue="Python.ex51" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1718073-4de4-47ce-910d-0c6609877324" name="Default Changelist" comment="" />
+      <created>1584865577210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584865577210</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584874134551">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state x="631" y="311" key="#com.intellij.fileTypes.FileTypeChooser/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584874134551" />
+    <state x="1154" y="286" key="FileChooserDialogImpl" timestamp="1584874414795">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state x="1154" y="286" key="FileChooserDialogImpl/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584874414795" />
+    <state width="1659" height="330" key="GridCell.Tab.0.bottom" timestamp="1584890971514">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state width="1659" height="330" key="GridCell.Tab.0.bottom/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584890971514" />
+    <state width="1659" height="330" key="GridCell.Tab.0.center" timestamp="1584890971514">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state width="1659" height="330" key="GridCell.Tab.0.center/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584890971514" />
+    <state width="1659" height="330" key="GridCell.Tab.0.left" timestamp="1584890971514">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state width="1659" height="330" key="GridCell.Tab.0.left/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584890971514" />
+    <state width="1659" height="330" key="GridCell.Tab.0.right" timestamp="1584890971514">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state width="1659" height="330" key="GridCell.Tab.0.right/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584890971514" />
+    <state width="1659" height="330" key="GridCell.Tab.1.bottom" timestamp="1584890971514">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state width="1659" height="330" key="GridCell.Tab.1.bottom/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584890971514" />
+    <state width="1659" height="330" key="GridCell.Tab.1.center" timestamp="1584890971514">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state width="1659" height="330" key="GridCell.Tab.1.center/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584890971514" />
+    <state width="1659" height="330" key="GridCell.Tab.1.left" timestamp="1584890971514">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state width="1659" height="330" key="GridCell.Tab.1.left/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584890971514" />
+    <state width="1659" height="330" key="GridCell.Tab.1.right" timestamp="1584890971514">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state width="1659" height="330" key="GridCell.Tab.1.right/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584890971514" />
+    <state x="369" y="139" key="SettingsEditor" timestamp="1584883911965">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state x="369" y="139" key="SettingsEditor/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584883911965" />
+    <state x="2102" y="113" key="SettingsEditor/1680.-30.1920.1036/0.0.1680.1006@1680.-30.1920.1036" timestamp="1584883870566" />
+    <state x="563" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1584865767299">
+      <screen x="0" y="0" width="1680" height="1006" />
+    </state>
+    <state x="563" y="336" key="com.intellij.ide.util.TipDialog/1680.-30.1920.1036/0.0.1680.1006@0.0.1680.1006" timestamp="1584865767299" />
+  </component>
+</project>
