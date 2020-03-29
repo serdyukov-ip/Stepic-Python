@@ -6,6 +6,7 @@ To get acquainted, clone the repository to your computer.
 After cloning, you can run projects in the PyCharm IDE.
 
 Each folder is a separate project that relates to a different course.
+
 stepic_exercise - Programming in Python.
 
 stepik_parsing - Python for solving practical problems.
